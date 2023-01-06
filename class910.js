@@ -16,7 +16,7 @@ fetch("class910.json")
       
           <div class="cards-box">
             <h1 class="cards-title">${tutor.name}</h1>
-            <h3 class="cards-title" style="color:blue;text-align:center">${tutor.qualification}</h3>
+            <h3 class="cards-title" style="color:blue;font-size:18px;">${tutor.qualification}</h3>
            <br>
             <div class="cards-content">
              <h3>Want to teach:<br>${tutor.subject}</h3>
@@ -29,7 +29,7 @@ fetch("class910.json")
           <div class="cards-footer">
             
             <a href="${tutor.fb}">facebook id link</a>
-            <a href="mailto:${tutor.email}">Email</a>
+            <a href="${tutor.email}">Email</a>
             <hr>
           <hr>
           <h2 class="point">Satisfactory Point: ${tutor.point}</h2>
