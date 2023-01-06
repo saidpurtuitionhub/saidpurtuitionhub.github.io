@@ -10,7 +10,6 @@ fetch("class910.json")
             out += `
         <hr>
 
-        <div class="container">
         <div class="cards">
           
       
@@ -36,7 +35,7 @@ fetch("class910.json")
           </div>
           
         </div>
-      </div>
+     
 
 
 
