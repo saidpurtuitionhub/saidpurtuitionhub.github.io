@@ -7,7 +7,9 @@
         "subject": "G.Math,H.math,Physics,Chemistry,English",
         "qualification": "B.Sc. in CSE(running),BAUST",
         "place": "BAUST hall",
-        "rating": "40/100"
+        "point": "50",
+        "fb": "https://web.facebook.com/profile.php?id=100088216488594",
+        "email": "ak47.sabbir.bd@gmail.com"
     },
     {
         "id": "TM23010401",
@@ -17,7 +19,7 @@
         "subject": "G.Math,H.math,Physics,Chemistry,English",
         "qualification": "B.Sc. in CSE(running),BAUST",
         "place": "BAUST hall",
-        "rating": "40/100"
+        "point": "50"
     },
     {
         "id": "TM23010401",
@@ -27,6 +29,6 @@
         "subject": "G.Math,H.math,Physics,Chemistry,English",
         "qualification": "B.Sc. in CSE(running),BAUST",
         "place": "BAUST hall",
-        "rating": "45/100"
+        "point": "50"
     }
 ]
