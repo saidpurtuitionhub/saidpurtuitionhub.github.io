@@ -1,28 +1,15 @@
 [
     {
-        "id": "demo",
-        "validity": "6 month",
-        "name": "onlinedemo",
-        "phone": "01700000000",
-        "subject": "G.Math,H.math,Physics,Chemistry,English",
-        "qualification": "demo",
-        "place": "demo",
-        "point": 50,
-        "salary": 3000,
-        "fb": "https://web.facebook.com/",
-        "email": "#"
-    },
-    {
-        "id": "demo",
-        "validity": "6 month",
-        "name": "demo2",
-        "phone": "018000000000",
-        "subject": "G.Math,H.math,Physics,Chemistry,English",
-        "qualification": "Honours",
-        "place": "demo",
-        "point": "50",
-        "salary": 2500,
-        "fb": "https://web.facebook.com/",
-        "email": "#"
+        "validity": "",
+        "name": "Shaikh Arafat Rahman ",
+        "phone": "01521570230",
+        "place": "Saidpur",
+        "class": "9 to 12",
+        "email": "sheikharafat2202@gmail.com",
+        "qualification": "KUET(BECM)",
+        "fb": "https://www.facebook.com/fuad.rh.5?mibextid=ZbWKwL",
+        "salary": 5000,
+        "subject": "পদার্থবিজ্ঞান, উচ্চতর গণিত",
+        "point": 55
     }
 ]

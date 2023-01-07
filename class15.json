@@ -1,20 +1,19 @@
 [
     {
-        "id": "demo",
-        "validity": "6 month",
-        "name": "15demo",
-        "phone": "01700000000",
-        "subject": "G.Math,H.math,Physics,Chemistry,English",
-        "qualification": "demo",
-        "place": "demo",
-        "point": 50,
-        "salary": 3000,
-        "fb": "https://web.facebook.com/",
-        "email": "#"
+        "validity": "expaired",
+        "name": "Mohammad Mafiz",
+        "phone": "01868370597",
+        "place": "Goalpara sabji market",
+        "subject": "Math,English,Science,Others",
+        "qualification": "Dinajpur Adarsha College marketing Department ",
+        "point": 55,
+        "salary": 1000,
+        "fb": "https://www.facebook.com/md.mafiz.sdp",
+        "email": "mdmafiz2244@gmail.com"
     },
     {
         "id": "demo",
-        "validity": "6 month",
+        "validity": "",
         "name": "demo2",
         "phone": "018000000000",
         "subject": "G.Math,H.math,Physics,Chemistry,English",
