@@ -1,16 +1,5 @@
 [
-    {
-        "validity": "expaired",
-        "name": "Md.Abdulla Ibna Zabir Nafew",
-        "phone": "01798904213",
-        "subject": "Math,Science,Others",
-        "qualification": "CE,BAUST(running)",
-        "place": "kodomtoli",
-        "point": 50,
-        "salary": 2500,
-        "fb": "https://www.facebook.com/nafew.sarkar",
-        "email": "nafewsarlar@gmail.com"
-    },
+   
     {
         "id": "demo",
         "validity": "6 month",
