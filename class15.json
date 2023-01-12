@@ -11,17 +11,18 @@
         "fb": "https://www.facebook.com/md.mafiz.sdp",
         "email": "mdmafiz2244@gmail.com"
     },
-    {
-        "id": "demo",
-        "validity": "",
-        "name": "demo2",
-        "phone": "018000000000",
-        "subject": "G.Math,H.math,Physics,Chemistry,English",
-        "qualification": "Honours",
-        "place": "demo",
+    
+   {
+        "validity": "april 2023",
+        "name": "Labonno",
+        "phone": "hidden",
+ 	"place": "baust hall",
+ 	"email": "tanjilalabonno246@gmail.com",
+	"qualification": "Studing BA(Hons)in English[BAUST]",
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
         "point": "50",
         "salary": 2500,
         "fb": "https://web.facebook.com/",
-        "email": "#"
+       
     }
 ]

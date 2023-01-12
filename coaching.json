@@ -1,14 +1,13 @@
 [
     {
-        "id": "demo",
-        "validity": "6 month",
-        "name": "abc coaching",
-        "phone": "01700000000",
-        "class": "3 to 8",
+        "validity": "no validity",
+        "name": "Marham Coaching Center",
+        "phone": "01934348760",
+        "class": "3 to 8 (all subjects)<br>class 9 & 10(Science & commerce subjects) <br> Class 11 & 12 (Physics,H.Math,ICT)",
         "subject": "G.Math,H.math,Physics,Chemistry,English",
         "qualification": "demo",
-        "place": "old babupara",
-        "point": 50,
+        "place": "new babupara",
+        "point": 55,
         "salary": 3000,
         "fb": "https://web.facebook.com/",
         "email": "#"

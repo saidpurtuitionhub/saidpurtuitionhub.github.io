@@ -1,16 +1,16 @@
 [
    
     {
-        "id": "demo",
-        "validity": "6 month",
-        "name": "demo2",
-        "phone": "018000000000",
-        "subject": "G.Math,H.math,Physics,Chemistry,English",
-        "qualification": "Honours",
-        "place": "demo",
+        "validity": "april 2023",
+        "name": "Sharmin Akter Sathy",
+        "phone": "hidden",
+ 	"place": "Kaya Golahat ",
+ 	"email": "sharminsathy2022@gmail.com",
+	"qualification": "Diploma in CSE",
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
         "point": "50",
         "salary": 2500,
         "fb": "https://web.facebook.com/",
-        "email": "#"
+       
     }
 ]
