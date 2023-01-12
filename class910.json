@@ -22,18 +22,5 @@
         "salary": 2000,
         "subject": "ICT, একাউন্টিং, ফিনেন্স",
         "point": 55
-    },
-    {
-        "id": "demo",
-        "validity": "6 month",
-        "name": "demo2",
-        "phone": "018000000000",
-        "subject": "G.Math,H.math,Physics,Chemistry,English",
-        "qualification": "Honours",
-        "place": "demo",
-        "point": "50",
-        "salary": 2500,
-        "fb": "https://web.facebook.com/",
-        "email": "#"
     }
 ]
