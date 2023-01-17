@@ -11,18 +11,28 @@
         "fb": "https://www.facebook.com/md.mafiz.sdp",
         "email": "mdmafiz2244@gmail.com"
     },
-    
-   {
+    {
         "validity": "april 2023",
         "name": "Labonno",
         "phone": "hidden",
- 	"place": "baust hall",
- 	"email": "tanjilalabonno246@gmail.com",
-	"qualification": "Studing BA(Hons)in English[BAUST]",
+        "place": "baust hall",
+        "email": "tanjilalabonno246@gmail.com",
+        "qualification": "Studing BA(Hons)in English[BAUST]",
         "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
         "point": "50",
         "salary": 2500,
         "fb": "https://web.facebook.com/"
-       
+    },
+    {
+        "validity": "april 2023",
+        "name": "Rubina Jui",
+        "phone": "hidden",
+        "place": "Saidpur",
+        "email": "rubinajui10219@gmail.com",
+        "qualification": "Studing BBA 3rd year[BAUST]",
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "point": "50",
+        "salary": 3000,
+        "fb": "https://web.facebook.com/"
     }
 ]

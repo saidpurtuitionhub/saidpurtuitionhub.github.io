@@ -1,16 +1,14 @@
 [
-   
     {
         "validity": "april 2023",
         "name": "Sharmin Akter Sathy",
         "phone": "hidden",
- 	"place": "Kaya Golahat ",
- 	"email": "sharminsathy2022@gmail.com",
-	"qualification": "Diploma in CSE",
+        "place": "Kaya Golahat ",
+        "email": "sharminsathy2022@gmail.com",
+        "qualification": "Diploma in CSE",
         "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
         "point": "50",
         "salary": 2500,
         "fb": "https://web.facebook.com/"
-       
     }
 ]
