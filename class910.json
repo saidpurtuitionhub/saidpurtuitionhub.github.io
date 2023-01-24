@@ -1,5 +1,5 @@
 [
-     {
+    {
         "validity": "expaired",
         "name": "Md.Abdulla Ibna Zabir Nafew",
         "phone": "01798904213",
@@ -22,5 +22,17 @@
         "salary": 2000,
         "subject": "ICT, একাউন্টিং, ফিনেন্স",
         "point": 55
+    },
+    {
+        "validity": "April 2023",
+        "name": "Md jesan",
+        "phone": "01705833343",
+        "place": "Saidpur plaza",
+        "email": "mdjesan4044@gmail.com",
+        "qualification": "B.sc in EEE (3rd year)[Begum rokeya university ]",
+        "fb": "https://m.me/jesan0203",
+        "salary": 2500,
+        "subject": "পদার্থবিজ্ঞান, রসায়ন, উচ্চতর গণিত, সাধারণ গণিত, ICT",
+        "point": 50
     }
 ]
