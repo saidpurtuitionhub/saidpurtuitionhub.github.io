@@ -10,5 +10,29 @@
         "point": "50",
         "salary": 2500,
         "fb": "https://web.facebook.com/"
+    },
+    {
+        "validity": "february 2024",
+        "name": "আবু বক্কর সিদ্দিক",
+        "phone": "01595595996",
+        "place": "সৈয়দপুর , কাজিহাট ",
+        "email": "abubakkarsiddik622@gmail.com",
+        "qualification": "BSS,MSS  Economics",
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান",
+        "point": "50",
+        "salary": 3000,
+        "fb": "https://web.facebook.com/"
+    },
+    {
+        "validity": "april 2023",
+        "name": "জাহানারা ইসলাম ঋতু ",
+        "phone": "hidden",
+        "place": "সৈয়দপুর ",
+        "email": "jahanritu27@gmail.com",
+        "qualification": "অনার্স ফাইনাল ইয়ার (BAUST)",
+        "subject": "ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "point": "50",
+        "salary": 3000,
+        "fb": "https://web.facebook.com/"
     }
 ]
