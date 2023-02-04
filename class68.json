@@ -34,5 +34,29 @@
         "point": "50",
         "salary": 3000,
         "fb": "https://web.facebook.com/"
+    },
+    {
+        "validity": "August 2023",
+        "name": "Md. Mahmud Ur Rahman Shah ",
+        "phone": "01785271400, 01303073121",
+        "place": "Masterpara, Banglalipur",
+        "email": "mahmudrahmanshah@gmail.com",
+        "qualification": "B.A In English literature (Hon's)<br>M.A in English Literature (Carmichael College, Rangpur)",
+        "subject": "গণিত, ইংরেজি",
+        "point": "50",
+        "salary": 3000,
+        "fb": "https://www.facebook.com/mahmud.rahman.shah?mibextid=ZbWKwL"
+    },
+    {
+        "validity": "expaired",
+        "name": "shahariar Ahmed Amin ",
+        "phone": "01707483609",
+        "place": "Saidpur ",
+        "email": "shahriara741@gmail.com",
+        "qualification": "(Hons) in English (BAUST) ",
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "point": "47",
+        "salary": 3000,
+        "fb": "https://www.facebook.com/shahriar.ahmed.1694?mibextid=ZbWKwL"
     }
 ]

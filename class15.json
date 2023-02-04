@@ -34,5 +34,29 @@
         "point": "50",
         "salary": 3000,
         "fb": "https://web.facebook.com/"
+    },
+    {
+        "validity": "expaired",
+        "name": "Most.Shamima Akther Mimi",
+        "phone": "hidden",
+        "place": "Niamotpur Sarkarpara, Saidpur ",
+        "email": "mimishamima83@gmail.com",
+        "qualification": "BA(hons)in English ",
+        "subject": "গণিত, ইংরেজি, অন্যান্য",
+        "point": "55",
+        "salary": 2000,
+        "fb": "https://web.facebook.com/"
+    },
+    {
+        "validity": "may 2023",
+        "name": "Urbana hema",
+        "phone": "hidden",
+        "place": "Saidpur cantonment  ",
+        "email": "english.200112091@gmail.com",
+        "qualification": "BA(hons)in English (BAUST) ",
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "point": "50",
+        "salary": 4000,
+        "fb": "https://web.facebook.com/"
     }
 ]
