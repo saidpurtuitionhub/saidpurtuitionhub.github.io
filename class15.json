@@ -12,6 +12,18 @@
         "email": "mdmafiz2244@gmail.com"
     },
     {
+        "validity": "expaired",
+        "name": "Most.Shamima Akther Mimi",
+        "phone": "hidden",
+        "place": "Niamotpur Sarkarpara, Saidpur ",
+        "email": "mimishamima83@gmail.com",
+        "qualification": "BA(hons)in English ",
+        "subject": "গণিত, ইংরেজি, অন্যান্য",
+        "point": "55",
+        "salary": 2000,
+        "fb": "https://web.facebook.com/"
+    },
+    {
         "validity": "april 2023",
         "name": "Labonno",
         "phone": "hidden",
@@ -33,18 +45,6 @@
         "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
         "point": "50",
         "salary": 3000,
-        "fb": "https://web.facebook.com/"
-    },
-    {
-        "validity": "expaired",
-        "name": "Most.Shamima Akther Mimi",
-        "phone": "hidden",
-        "place": "Niamotpur Sarkarpara, Saidpur ",
-        "email": "mimishamima83@gmail.com",
-        "qualification": "BA(hons)in English ",
-        "subject": "গণিত, ইংরেজি, অন্যান্য",
-        "point": "55",
-        "salary": 2000,
         "fb": "https://web.facebook.com/"
     },
     {
