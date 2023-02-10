@@ -46,5 +46,17 @@
         "point": "50",
         "salary": 3000,
         "fb": "https://www.facebook.com/mahmud.rahman.shah?mibextid=ZbWKwL"
+    },
+    {
+        "validity": "May 2023",
+        "name": "Narayan Chandra Roy ",
+        "phone": "01731241495",
+        "place": "saidpur",
+        "email": "",
+        "qualification": "",
+        "subject": "Physics,Chemistry,G.Math,H.Math",
+        "point": "50",
+        "salary": 2500,
+        "fb": "https://www.facebook.com/"
     }
 ]

@@ -58,5 +58,17 @@
         "point": "50",
         "salary": 4000,
         "fb": "https://web.facebook.com/"
+    },
+    {
+        "validity": "may 2023",
+        "name": "মোঃ নাসিম -এ- বাহার",
+        "phone": "01746537930/01943843076",
+        "place": "নতুন বাবুপাড়া,সৈয়দপুর  ",
+        "email": "baharallturak@gmail.com",
+        "qualification": "মাষ্টারস অধ্যয়নরত (দিনাজপুর সরকারি কলেজ )",
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "point": "50",
+        "salary": 2500,
+        "fb": "https://www.facebook.com/profile.php?id=100064776882462"
     }
 ]
