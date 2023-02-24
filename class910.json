@@ -58,5 +58,17 @@
         "point": "50",
         "salary": 2500,
         "fb": "https://www.facebook.com/"
+    },
+    {
+        "validity": "Aug 2023",
+        "name": "Md Mostafizer rahman  ",
+        "phone": "01830904736",
+        "place": "Shaskando, Saidpur,Nilphamari ",
+        "email": "mostafizerrahaman97@gmail.com",
+        "qualification": "Hajee Mohammad Danesh science and Technology Universit Dinajpur   ",
+        "subject": "পদার্থবিজ্ঞান, উচ্চতর গণিত, সাধারণ গণিত",
+        "point": "50",
+        "salary": 3000,
+        "fb": "https://www.facebook.com/"
     }
 ]
